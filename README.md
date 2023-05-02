@@ -6,7 +6,7 @@ Hardware
     Parallax Boe-Bot
     2 x Servo Motors [pins 12 and 13]
     2 x IR Detectors [pins 0 and 9]
-    2 IR LEDs [pins 2 and 8]
+    2 x IR LEDs [pins 2 and 8]
     2 x Red LEDs [pins 1 and 10]
     Piezo Speaker [pin 4]
     
